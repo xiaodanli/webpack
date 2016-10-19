@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./page1.js"],"names":[],"mappings":";;;;;;;AAAA","file":"page1.bundle.js","sourcesContent":["document.write(\"page1\");\n\n\n\n/*****************\n ** WEBPACK FOOTER\n ** ./page1.js\n ** module id = 0\n ** module chunks = 0\n **/"],"sourceRoot":""}
